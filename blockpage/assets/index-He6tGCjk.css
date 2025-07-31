@@ -1,0 +1,1 @@
+.blocklyToolboxCategoryLabel{color:#fff}.blocklyToolboxContents{padding:.5em}.blocklyToolboxCategory{padding:3px;margin-bottom:.5em;border-radius:4px}#outDiv{display:flex;background-color:#7fffd4;overflow:auto;height:90vh;width:40vw}#workspace{display:grid;grid-template-columns:1fr 1fr}#blocklyDiv{height:90vh;width:60vw}#out{flex-grow:1;overflow:scroll}#controls{height:4vh}
